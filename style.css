@@ -1,0 +1,15 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: #949393;
+    
+    
+}
+#mapid{
+    height: 50vh;
+    width: 320px;
+}
